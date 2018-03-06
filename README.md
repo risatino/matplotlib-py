@@ -548,7 +548,7 @@ plt.show()
 ```
 
 
-![png](/Images/output_17_0.png)
+![png](output_17_0.png)
 
 
 #### Table: Average Metastatic Sites By Timepoint & Response To Treatment
@@ -786,7 +786,7 @@ plt.show()
 ```
 
 
-![png](/Images/output_23_0.png)
+![png](output_23_0.png)
 
 
 #### Survival Rate: Table Averaging Mouse Count by Timepoint
@@ -1026,7 +1026,7 @@ plt.show()
 ```
 
 
-![png](/Images/output_29_0.png)
+![png](output_29_0.png)
 
 
 #### Bar Graph: Comparing Total % Tumor Volume Change for Treatment Drugs (in 45 days)
@@ -1112,5 +1112,5 @@ plt.show()
 ```
 
 
-![png](/Images/output_32_0.png)
+![png](output_32_0.png)
 
