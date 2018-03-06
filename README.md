@@ -4,9 +4,7 @@
 #### OBSERVED TRENDS:
 
 1. Between the three treatment drugs (Capomulin, Infubinol, Ketapril) and Placebo; Ketapril has the worst effect in tumor volume growth over the course of a 45-day clinical trial period.  
-<br>
 2. Capomulin, has a noticeable reduction effect on the tumor volume over a span of 45 days. The spread of metastatic sites is also less for mice given Capomulin and there are significantly fewer tumors detected.  
-<br>
 3. According to the __Survival During Treatment__, slightly more mice given the drug Infubinol died in comparison to those given Ketapril. On the other hand, the reports show that mice given Ketapril had larger tumor growth and metastatic site counts. These results suggest that tumor size and spread alone is not a determining factor in the count of mouse deaths.
 
 
@@ -550,7 +548,7 @@ plt.show()
 ```
 
 
-![png](Images/output_17_0.png)
+![png](/Images/output_17_0.png)
 
 
 #### Table: Average Metastatic Sites By Timepoint & Response To Treatment
@@ -788,7 +786,7 @@ plt.show()
 ```
 
 
-![png](Images/output_23_0.png)
+![png](/Images/output_23_0.png)
 
 
 #### Survival Rate: Table Averaging Mouse Count by Timepoint
@@ -1028,7 +1026,7 @@ plt.show()
 ```
 
 
-![png](Images/output_29_0.png)
+![png](/Images/output_29_0.png)
 
 
 #### Bar Graph: Comparing Total % Tumor Volume Change for Treatment Drugs (in 45 days)
@@ -1114,5 +1112,5 @@ plt.show()
 ```
 
 
-![png](Images/output_32_0.png)
+![png](/Images/output_32_0.png)
 
